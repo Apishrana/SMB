@@ -4,3 +4,5 @@ Temp/
 UserSettings/
 ignore.conf
 SMB.sln
+.DS_Store
+.plastic/
